@@ -215,6 +215,11 @@ nav {
     max-width: 80px;
 }
 
+.projectlanguage__imgsmall {
+    width: 75%;
+    max-width: 90px;
+}
+
 
 
 /* Projects */
